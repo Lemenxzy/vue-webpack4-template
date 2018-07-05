@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "webpack-dev-server --config build/webpack.dev.config.js --mode development --open",
     "build": "webpack  --config build/webpack.prod.config.js --mode production  --colors",
-    "test": "karma start"
+    "karma": "karma start",
+    "test": "karma run"
   },
   "repository": {
     "type": "git",
