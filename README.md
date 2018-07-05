@@ -2,7 +2,7 @@
 
 ## 介绍
 
-本模板基于[组件脚手架模板](https://git.souche-inc.com/souche-f2e/component-template)修改。本模板支持特点功能如下：
+本模板支持特点功能如下：
 * webpack版本升级 =>  webpack3 ---> webpack4
 
 * 仿vue-cil，dev下 错误信息 友好显示 , 显示在游览器中
