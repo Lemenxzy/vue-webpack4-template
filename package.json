@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack-dev-server --config build/webpack.dev.config.js --mode development --open",
     "build": "webpack  --config build/webpack.prod.config.js --mode production  --colors",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma start"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,6 @@
     "vue": "^2.5.16"
   },
   "devDependencies": {
-    "@souche-f2e/eslint-config-frontend": "^1.0.2",
     "autoprefixer": "^8.6.4",
     "babel-core": "^6.26.3",
     "babel-eslint": "^7.2.3",
