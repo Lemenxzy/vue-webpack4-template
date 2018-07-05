@@ -8,8 +8,10 @@
     "build": "webpack  --config build/webpack.prod.config.js --mode production  --colors",
     "karma": "karma start",
     "test": "karma run",
-    "eslint": "eslint src/**/*.js",
     "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "src/**/*.js": ["eslint --fix", "git add"]
   },
   "repository": {
     "type": "git",
