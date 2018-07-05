@@ -8,3 +8,4 @@ const vue = new Vue({
     render: h => h(App)
 });
 
+console.log(2);
