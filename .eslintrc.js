@@ -17,7 +17,6 @@ module.exports = {
     'rules': {
         "accessor-pairs": 2,
         // allow async-await
-        "generator-star-spacing": 0,
         "array-bracket-spacing": 0,
         "block-scoped-var": 0,
         "camelcase": 1,

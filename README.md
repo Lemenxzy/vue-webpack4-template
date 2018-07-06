@@ -15,6 +15,10 @@
 
 * eslint 代码检测工具
 
+* precommit 代码提交审核
+
+* lint-staged 自动 eslint 规则修复 等
+
 * karma 覆盖率检测，生成本地 html 代码检测报告
 
 * ...
