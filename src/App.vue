@@ -2,13 +2,11 @@
     <div class="app_wrap">
         <div class="text_wrap">
             <h1 class="title">
-                <p>❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤<p>
-                <p>❤❤❤❤❤老婆，你别生气啦！我爱你❤❤❤❤❤</p>
-                <p>❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤</p>
+                <p>老婆我成功啦~</p>
                 <i class="iconfont icon-mofang"></i>
                 !
             </h1>
-            <p>我爱周天怡</p>
+            <p>比心</p>
         </div>
         <div class="img_wrap">
             <img :src="logo" width="500" alt="vue"/>
