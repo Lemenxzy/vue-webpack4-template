@@ -2,11 +2,11 @@
     <div class="app_wrap">
         <div class="text_wrap">
             <h1 class="title">
-                <p>老婆我成功啦~</p>
+                <p>老婆我爱你~</p>
                 <i class="iconfont icon-mofang"></i>
                 !
             </h1>
-            <p>比心</p>
+            <p>Jenkins自动部署成功</p>
         </div>
         <div class="img_wrap">
             <img :src="logo" width="500" alt="vue"/>
