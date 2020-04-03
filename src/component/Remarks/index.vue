@@ -1,6 +1,6 @@
 <template>
     <div class="index_wrap">
-        <p class="remarks">此脚手架没有集成 SO-UI 如需添加其他功能请添加</p>
+        <p class="remarks">嘻嘻</p>
     </div>
 </template>
 

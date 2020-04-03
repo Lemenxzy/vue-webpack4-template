@@ -17,6 +17,8 @@ module.exports = merge(baseWebpackConfig, {
     devServer: {
         contentBase: resolve('dist'),
         historyApiFallback: true,
+        host:'127.0.0.1',
+        port: 9000,
         //显示在游览器上
         overlay: true,
         //错误日志不显示

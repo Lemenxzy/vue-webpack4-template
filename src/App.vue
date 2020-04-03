@@ -2,11 +2,13 @@
     <div class="app_wrap">
         <div class="text_wrap">
             <h1 class="title">
-                Hellow Vue
+                <p>❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤<p>
+                <p>❤❤❤❤❤老婆，你别生气啦！我爱你❤❤❤❤❤</p>
+                <p>❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤</p>
                 <i class="iconfont icon-mofang"></i>
                 !
             </h1>
-            <p>这是一个基于webpack4的 vue 组件脚手架</p>
+            <p>我爱周天怡</p>
         </div>
         <div class="img_wrap">
             <img :src="logo" width="500" alt="vue"/>
@@ -27,7 +29,7 @@
         },
         created() {
             this.logo = logo;
-            this.title = 'Hello world';
+            this.title = '~';
         }
     };
 </script>
@@ -42,6 +44,9 @@
         }
         .title {
             color: #dc144c;
+            p {
+                color: #dc144c;
+            }
             &:hover{
                 color: red;
                 transition: all 0.2s ease;
