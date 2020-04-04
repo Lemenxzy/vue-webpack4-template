@@ -1,6 +1,6 @@
 <template>
     <div class="index_wrap">
-        <p class="remarks">嘻嘻</p>
+        <p class="remarks">哈哈哈</p>
     </div>
 </template>
 

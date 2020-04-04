@@ -2,7 +2,7 @@
     <div class="app_wrap">
         <div class="text_wrap">
             <h1 class="title">
-                <p>老婆我爱你~</p>
+                <p>jekins 自动化部署VUE ~</p>
                 <i class="iconfont icon-mofang"></i>
                 !
             </h1>
